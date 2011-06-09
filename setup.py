@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='django-customreport',
+    name='django-relation-selector',
     version="0.0",
     author='Samuel Toriel',
     author_email='samueltoriel@gmail.com',
